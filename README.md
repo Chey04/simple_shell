@@ -20,7 +20,7 @@ This project is a realization of a basic command-line interface for UNIX, common
 
 The Unix command interpreter, commonly known as the shell, is a program that provides users with a command-line interface for interacting with the operating system. The shell takes input from the user, interprets it, and executes the corresponding command. This implementation of the shell replicates the functionality of the simple shell (sh) found in Unix-like operating systems.
 
-This shell program is created exclusively in the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language and draws inspiration from the [Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell).
+This shell program is created exclusively in the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)) and draws inspiration from the [Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell).
 
 
 ## Environment :
