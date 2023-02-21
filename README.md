@@ -74,7 +74,7 @@ Once you have cloned the repository, you can compile the files into an executabl
 gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 ```
 
-### Basic Usage 
+### Basic Usage
 
 To use the shell, run the following command:
 ```
@@ -87,16 +87,6 @@ $
 ```
 
 From here, you can enter commands just like in a normal terminal. The shell will interpret and execute the commands, and then display the prompt again.
-
-## Example
-
-Here's an example of how to use the shell:
-```
-ls -la
-```
-
-![ls -la output](https://imgur.com/ZsNFN2L)
-
 
 :white_check_mark: and Voila! That's it, we have now successfully installed the shell program. The shell program allows you to execute commands and perform various operations in the operating system. To start the shell program, navigate to the directory where the shell program is installed and run the following command:
 
