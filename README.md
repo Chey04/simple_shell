@@ -58,8 +58,8 @@ Our shell has support for the following built-in commands:
 
 ## Installation:
 
-Clone the repository from GitHub and compile the source files into an executable using GCC compiler.
-<sub>[How to clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)</sub>
+Clone the repository from GitHub and compile the source files into an executable using GCC compiler.<br>
+<sub>[How to clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)</sub><br>
 <sub>[How to fork a repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)</sub>
 
 Clone the below repository and compile the files into an executable using the GCC compiler.
