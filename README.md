@@ -20,7 +20,7 @@ This project is a realization of a basic command-line interface for UNIX, common
 
 The Unix command interpreter, commonly known as the shell, is a program that provides users with a command-line interface for interacting with the operating system. The shell takes input from the user, interprets it, and executes the corresponding command. This implementation of the shell replicates the functionality of the simple shell (sh) found in Unix-like operating systems.
 
-This shell program is created exclusively in the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language and draws inspiration from the [Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell).
+This shell program is created exclusively in the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)) and draws inspiration from the [Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell).
 
 
 ## Environment :
@@ -58,8 +58,8 @@ Our shell has support for the following built-in commands:
 
 ## Installation:
 
-Clone the repository from GitHub and compile the source files into an executable using GCC compiler.
-<sub>[How to clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)</sub>
+Clone the repository from GitHub and compile the source files into an executable using GCC compiler.<br>
+<sub>[How to clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)</sub><br>
 <sub>[How to fork a repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)</sub>
 
 Clone the below repository and compile the files into an executable using the GCC compiler.
@@ -74,7 +74,7 @@ Once you have cloned the repository, you can compile the files into an executabl
 gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 ```
 
-### Basic Usage 
+### Basic Usage
 
 To use the shell, run the following command:
 ```
@@ -87,16 +87,6 @@ $
 ```
 
 From here, you can enter commands just like in a normal terminal. The shell will interpret and execute the commands, and then display the prompt again.
-
-## Example
-
-Here's an example of how to use the shell:
-```
-ls -la
-```
-
-![ls -la output](https://imgur.com/ZsNFN2L)
-
 
 :white_check_mark: and Voila! That's it, we have now successfully installed the shell program. The shell program allows you to execute commands and perform various operations in the operating system. To start the shell program, navigate to the directory where the shell program is installed and run the following command:
 
